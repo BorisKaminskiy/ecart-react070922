@@ -1,0 +1,17 @@
+.select-container {
+  margin-top: 0.5rem;
+  display: flex;
+  column-gap: 0.8rem;
+  align-items: center;
+}
+
+.my-2 {
+  display: flex;
+  column-gap: 0.3rem;
+}
+
+.select-container img {
+  width: 100px;
+  height: 100px;
+  object-fit: contain;
+}
